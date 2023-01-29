@@ -4,7 +4,7 @@
 or
 
 - action -> dispatcher -> store -> view
-                |____<___action___<_|
+-                |____<___action___<_|
                 
 ```
 Views react to changes in stores
